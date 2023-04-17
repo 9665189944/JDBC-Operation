@@ -1,4 +1,4 @@
-package PreparedStatement;
+package EmployeeDetailsOperation.PreparedStatement;
 
 import sun.security.util.Password;
 

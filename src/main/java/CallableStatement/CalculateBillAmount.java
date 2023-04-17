@@ -2,7 +2,7 @@ package CallableStatement;
 
 import java.sql.*;
 import java.util.Scanner;
-
+//Create store function in SQLyog and Write JDBC Program Call Function using CallableStatement.
 public class CalculateBillAmount {
     public static void main(String[] args) {
 

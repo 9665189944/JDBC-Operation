@@ -1,4 +1,4 @@
-package CallableStatement;
+package CallableStatementSotreFunction;
 
 import java.sql.*;
 import java.util.Scanner;
